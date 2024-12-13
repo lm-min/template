@@ -1,0 +1,44 @@
+
+html {
+    // * {
+    //     @include scrollbar(.8rem);
+
+    //     @include tablet {
+    //         @include scrollbar(0);
+    //     }
+    // }
+
+
+}
+
+body {
+    font-family: 'Pretendard', 'S-CoreDream', 'GangwonState', sans-serif;
+    background-color: #fff;
+}
+
+// .inner {
+//     width: calc(100% - 4rem);
+//     // max-width: 144rem;
+//     max-width: 140rem;
+//     margin: 0 auto;
+// }
+
+// .content-inner {
+//     width: calc(100% - 4rem);
+//     max-width: 140rem;
+//     margin: 0 auto;
+//     padding: 6rem 0 8rem;
+// }
+
+// .wrapper {
+//     width: 100vw;
+//     // min-width: 134rem;
+//     height: 100vh;
+//     margin: 0 auto;
+//     overflow-x: hidden;
+// }
+
+// .content-container {
+//     @include flex(between, start);
+//     height: calc(100vh - 11rem);
+// }
